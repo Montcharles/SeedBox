@@ -28,5 +28,7 @@ The methodology follows the reference article by Nobrega et al. (2026), publishe
 to discriminate Schizolobium parahyba populations from the Cerrado and the Atlantic Forest
 
 References:
+
 Nobrega et al. (2026) A simple method for discriminating Schizolobium parahyba (vell.) blake (Fabaceae) seeds population by dimensional morphometry and machine learning algorithms, Flora. 2026, 153108, ISSN 0367-2530, https://doi.org/10.1016/j.flora.2026.153108.
 
+Santos et al. SeedBox: a user-friendly software package for high-throughput seed morphometry modelling for quantitative plant ecology. 
