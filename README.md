@@ -1,4 +1,8 @@
 # SeedBox
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/f5b80a34-5ef5-4fe8-a976-20b609186eea" />
+
+
 A user-friendly software package for high-throughput seed morphometry modelling for quantitative plant ecology
 
 SeedBox: Dimensional Morphometry is academic software for the dimensional morphometry of seeds. From three linear measurements of each seed — length, width and thickness — it computes the derived physical properties, compares treatments or populations, describes the multivariate structure of the data and uses machine learning to assess how well the seed lots can be told apart.
