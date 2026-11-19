@@ -1,7 +1,11 @@
 # SeedBox
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/f5b80a34-5ef5-4fe8-a976-20b609186eea" />
+[![INPI](https://img.shields.io/badge/INPI-BR512026011133--1-1f6feb)](#inpi-registration)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+![Version](https://img.shields.io/badge/version-2.01-2EA043)
+![Platform](https://img.shields.io/badge/platform-Windows%2010%20%7C%2011-0078D6)
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/f5b80a34-5ef5-4fe8-a976-20b609186eea" />
 
 A user-friendly software package for high-throughput seed morphometry modelling for quantitative plant ecology
 
