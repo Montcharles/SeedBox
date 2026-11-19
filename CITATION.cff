@@ -1,0 +1,89 @@
+cff-version: 1.2.0
+message: "If you use SeedBox, please cite it using the metadata from this file."
+type: software
+title: "SeedBox: A user-friendly software package for high-throughput seed morphometry modelling for quantitative plant ecology"
+version: "2.01"
+date-released: 2026-11-18
+license: MIT
+repository-code: "https://github.com/Montcharles/SeedBox"
+url: "https://github.com/Montcharles/SeedBox"
+abstract: >-
+  SeedBox: Dimensional Morphometry is academic software for the dimensional
+  morphometry of seeds. From three linear measurements of each seed (length,
+  width and thickness) it computes the derived physical properties, compares
+  treatments or populations, describes the multivariate structure of the data
+  and uses machine learning to assess how well the seed lots can be told apart.
+keywords:
+  - seed morphometry
+  - seed dimensions
+  - physical properties of seeds
+  - plant ecology
+  - machine learning
+  - self-organizing map
+identifiers:
+  - type: other
+    value: "BR512026011133-1"
+    description: "Computer program registration application filed with the Brazilian National Institute of Industrial Property (INPI) on 2026-11-19"
+authors:
+  - given-names: "Zildamara dos Reis"
+    family-names: "Holsback"
+    affiliation: &uems "Universidade Estadual de Mato Grosso do Sul (UEMS)"
+  - given-names: "Victor Hugo Vernochi"
+    family-names: "Rosa"
+    affiliation: *uems
+  - given-names: "Thomas Roberto dos"
+    family-names: "Santos Junior"
+    affiliation: *uems
+  - given-names: "Carlos"
+    family-names: "Higa Junior"
+    affiliation: *uems
+  - given-names: "Douglas Alexandre da Costa"
+    family-names: "Tagino"
+    affiliation: *uems
+  - given-names: "Geovanna Menezes"
+    family-names: "Barbosa"
+    affiliation: *uems
+  - given-names: "Yngrid Aguileiro"
+    family-names: "Moreno"
+    affiliation: *uems
+  - given-names: "Ana Lucia Ferreira"
+    name-particle: "da"
+    family-names: "Silva"
+    affiliation: *uems
+  - given-names: "Ana Laura Navarini"
+    family-names: "Silva"
+    affiliation: *uems
+  - given-names: "Nátaly Sevalio"
+    name-particle: "de"
+    family-names: "Figueiredo"
+    affiliation: *uems
+  - given-names: "Grazielly Couto"
+    family-names: "Costa"
+    affiliation: *uems
+  - given-names: "Maria Luisa Hamerski de Peralta"
+    family-names: "Nabuco"
+    affiliation: *uems
+  - given-names: "Aisha Higino"
+    family-names: "Mascarenhas"
+    affiliation: *uems
+  - given-names: "Emilly Cristina Kachuba"
+    family-names: "Casprechen"
+    affiliation: *uems
+  - given-names: "Yasmin Maria Barbosa"
+    family-names: "Escobar"
+    affiliation: *uems
+  - given-names: "Samara Marya Santos"
+    family-names: "Vitorino"
+    affiliation: *uems
+  - given-names: "Ana Luísa Barros"
+    family-names: "Liberato"
+    affiliation: *uems
+  - given-names: "Allana Martinez Icety"
+    family-names: "Milaneze"
+    affiliation: *uems
+  - given-names: "Alice Rosa dos Santos"
+    family-names: "Soares"
+    affiliation: *uems
+  - given-names: "Andressa da Silva"
+    family-names: "Miranda"
+    affiliation: *uems
